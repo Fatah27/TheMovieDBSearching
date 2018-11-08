@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">IMAAPLIKASI</string>
+    <string name="tdkbisa">tidak bisa kosong</string>
+    <string name="judul">Judul</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search">Search</string>
 </resources>

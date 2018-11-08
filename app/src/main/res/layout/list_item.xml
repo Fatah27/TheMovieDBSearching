@@ -11,12 +11,12 @@
        android:layout_width="match_parent"
        android:layout_height="match_parent"
        android:orientation="vertical"
-       android:padding="10dp">
+       android:padding="@dimen/padding">
     <ImageView
         android:id="@+id/imgPoster"
         android:layout_gravity="center"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="@dimen/widt"
+        android:layout_height="@dimen/height"
         android:src="@mipmap/ic_launcher"/>
     <TextView
         android:id="@+id/txtJudul"
@@ -25,8 +25,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Judul"
-        android:textColor="#000"
-        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:textSize="@dimen/txtSize"
         />
    </LinearLayout>
 

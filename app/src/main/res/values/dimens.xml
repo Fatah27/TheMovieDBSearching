@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="widthImage">100dp</dimen>
+    <dimen name="heightImage">100dp</dimen>
+    <dimen name="txtSize">20dp</dimen>
+    <dimen name="paddingLinear">16dp</dimen>
+    <dimen name="margintop">20dp</dimen>
+    <dimen name="recycler">3dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="widt">100dp</dimen>
+    <dimen name="height">100dp</dimen>
+</resources>

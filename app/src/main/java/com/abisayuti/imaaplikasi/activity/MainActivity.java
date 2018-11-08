@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
         String query = edtSearch.getText().toString();
         if (query.isEmpty()){
 
-            edtSearch.setError("tidak bisa kosong");
+            edtSearch.setError(getString(R.string.tdkbisa));
         }else {
 
             ApiService service = InstanceRetrodit.getInstance();
